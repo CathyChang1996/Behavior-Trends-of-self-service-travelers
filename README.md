@@ -13,13 +13,14 @@ Huang Xin-18415822[@Rita0719](https://github.com/Rita0719)
 
 ## Background and Motivation
 
-The population and the total expense on outbound traveling of Chinese people have ranked the first in the world for many years in a row. In addition, more and more tourists in Y/Z Generation use online travel application to book hotels, search for travel guides or share their traveling experience.
-Mafengwo is the biggest travel information website on mainland China.
-As we knew the data fraud of Wafengwo, We have cleaned our data using several ways.
+The population and the total expense on outbound traveling of Chinese people have ranked the first in the world for many years in a row. In addition, more and more tourists in Y/Z Generation use online travel applications to book hotels, search for travel guides or share their traveling experience.
+
+Mafengwo is the biggest travel information website in Mainland China.
+Considering the data fabrication cases of Wafengwo, we processed our data carefully and manually deleted those invalid data.
 
 ## Executive Summary
 
-The main purpose of this report is to figure out the persona of travelers in theY/Z  generation. By analyzing the user's behavior on the travel experience sharing website Mafengwo and other qualitative and quantitative research methods, this report can be used as a reference for all interested websites or individuals.
+The main purpose of this report is to figure out the persona of travelers in the Y/Z  generation. By analyzing the users' behavior on the travel experience sharing platform Mafengwo and conducting other qualitative and quantitative researches, this report can be used as a reference for all interested institutions or individuals.
 
 ## Quick Pointer to Key File
 
