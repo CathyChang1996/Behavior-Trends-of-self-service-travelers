@@ -25,7 +25,7 @@ The main purpose of this report is to figure out the persona of travelers in the
 
 [Report](https://github.com/CathyChang1996/Behavior-Trends-of-self-service-travelers/tree/master/report)
 
-[Nbviewer](https://github.com/CathyChang1996/Behavior-Trends-of-self-service-travelers/blob/master/report/Behavior%20trend%20of%20self-service%20travelers.ipynb)
+[Nbviewer](https://nbviewer.jupyter.org/github/CathyChang1996/Behavior-Trends-of-self-service-travelers/blob/master/report/Behavior%20trend%20of%20self-service%20travelers.ipynb?jyfyj)
 
 ## Reference
 
