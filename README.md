@@ -2,10 +2,14 @@
 
 ## Team Members
 
-Zhang Shiyu(@Chang1996)
-Liu Cong-18432689
-Cheng Mengjie-18440312
-Huang Xin-18415822(@Rita0719)
+Zhang Shiyu[@CathyChang1996](https://github.com/CathyChang1996)
+
+Liu Cong-18432689[@clairelau0108](https://github.com/clairelau0108)
+
+Cheng Mengjie-18440312[@DidoChan](https://github.com/DidoChan)
+
+Huang Xin-18415822[@Rita0719](https://github.com/Rita0719)
+
 
 ## Background and Motivation
 
@@ -19,15 +23,16 @@ The main purpose of this report is to figure out the persona of travelers in the
 
 ## Quick Pointer to Key File
 
-key file folder https://github.com/CathyChang1996/Behavior-Trends-of-self-service-travelers/tree/master/Data%20Analysis%26Visualization/data%20analysis
+[Key File(report)]
+(https://github.com/CathyChang1996/Behavior-Trends-of-self-service-travelers/tree/master/report)
 
-nbviewer:https://github.com/CathyChang1996/Behavior-Trends-of-self-service-travelers/blob/master/report/Behavior%20trend%20of%20self-service%20travelers.ipynb
+[Nbviewer](https://github.com/CathyChang1996/Behavior-Trends-of-self-service-travelers/blob/master/report/Behavior%20trend%20of%20self-service%20travelers.ipynb)
 
 ## Reference
 
-2018中国出境自由行大数据报告https://github.com/CathyChang1996/Behavior-Trends-of-self-service-travelers/blob/master/References/2018中国出境自由行大数据报告.pdf
+[2018中国出境自由行大数据报告](https://github.com/CathyChang1996/Behavior-Trends-of-self-service-travelers/blob/master/References/2018中国出境自由行大数据报告.pdf)
 
-2018年上半年旅游经济主要数据报告
-https://github.com/CathyChang1996/Behavior-Trends-of-self-service-travelers/blob/master/References/2018年上半年旅游经济主要数据报告%20_%20数据快递%20_中国政府网.html
+[2018年上半年旅游经济主要数据报告]
+(http://www.gov.cn/shuju/2018-08/22/content_5315811.htm)
 
-2018年中国在线旅游度假行业研究报告https://github.com/CathyChang1996/Behavior-Trends-of-self-service-travelers/blob/master/References/2018年中国在线旅游度假行业研究报告.pdf
+[2018年中国在线旅游度假行业研究报告](https://github.com/CathyChang1996/Behavior-Trends-of-self-service-travelers/blob/master/References/2018年中国在线旅游度假行业研究报告.pdf)
